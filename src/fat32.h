@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 
-// Bytes per sector is fixed at 512 in this homework.
+// Bytes per sector is fixed at 512 in system.
 #define BPS 512
 
 #pragma pack(push, 1)
